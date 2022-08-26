@@ -6,14 +6,14 @@ A simple bukkit inventory gui util. - 一个简易的Bukkit物品栏GUI工具库
 maven: 
 
 ```
-	 <repository>
+   <repository>
       <id>not-only-inventory</id>
       <url>https://github.com/BlueBottle9/bukkit-not-only-inventory/tree/main/repo</url>
    </repository>
 ```
 
 ```
-<groupId>io.github.bluebottle9</groupId>
-		<artifactId>not-only-inventory</artifactId>
-		<version>0.0.1</version>
+  <groupId>io.github.bluebottle9</groupId>
+	<artifactId>not-only-inventory</artifactId>
+  <version>0.0.1</version>
 ```
