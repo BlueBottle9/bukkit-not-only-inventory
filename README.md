@@ -13,7 +13,9 @@ maven:
 ```
 
 ```
+<dependency>
   <groupId>io.github.bluebottle9</groupId>
-	<artifactId>not-only-inventory</artifactId>
+  <artifactId>not-only-inventory</artifactId>
   <version>0.0.1</version>
+</dependency>
 ```
